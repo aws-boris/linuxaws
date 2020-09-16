@@ -1,0 +1,3 @@
+curl - open up a web page
+ifconfig - check network settings
+netstat - check open ports 
